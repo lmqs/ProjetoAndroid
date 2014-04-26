@@ -4,5 +4,8 @@
     <string name="app_name">QuestoesConcursos</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="lblnome">Usuário</string>
+    <string name="lblSenha">Senha</string>
+    <string name="btnLogar">Acessar</string>
 
 </resources>
