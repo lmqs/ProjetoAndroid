@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+L:\Unit-CC\9º Período\Tópicos Especiais em informática\Projeto\ProjetoWorkspace\.metadata\.plugins\org.eclipse.jdt.core
+2200765379.index
+1031695712.index
