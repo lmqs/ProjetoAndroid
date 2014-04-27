@@ -21,7 +21,4 @@ public class Questoes extends Activity {
 		return true;
 	}
 
-	
-	
-	
 }
