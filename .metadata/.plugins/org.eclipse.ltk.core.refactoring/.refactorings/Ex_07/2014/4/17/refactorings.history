@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;DashboardLayout.java&apos; to &apos;TopicosProjeto/src/br.com.layout&apos;&#x0D;&#x0A;- Original project: &apos;Ex_07&apos;&#x0D;&#x0A;- Destination element: &apos;TopicosProjeto/src/br.com.layout&apos;&#x0D;&#x0A;- Original element: &apos;br.com.ex_07.DashboardLayout.java&apos;" description="Copy compilation unit" destination="=TopicosProjeto/src&lt;br.com.layout" element1="/src&lt;br.com.ex_07{DashboardLayout.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1398607900407" units="1" version="1.0"/>
+</session>
